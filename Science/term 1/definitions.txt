@@ -13,6 +13,8 @@ Giant Panda - diet comprised 99% of bamboo, very small movement range, live soli
 Coyotes - eat nearly any meat, scavengers, highly adaptable, live in packs, originally from desert
 South Island takahē - grazer, from New Zealand, replaces roles of mammals like cows
 
+Implications
+
 References
 
 Examples for Niches found on this website.
@@ -25,14 +27,27 @@ https://www.merriam-webster.com/dictionary/niche
 Competition
 
 Definition
-active demand by two or more organisms or kinds of organisms for some environmental resource in short supply
+Active demand by two or more organisms or kinds of organisms for some environmental resource in short supply
 
 Explanation 
+Competition is the act of contesting other organisms for scarce resources
 
+Examples
+Green Anole and Brown Anole - when brown anole was introduced to Florida it caused competition on the ground floor of the forests for prey,
+causing the green anole to move upwards interrupting other anoles feeding
+Small Siphonaria lessoni and the Larger Fissurella crassa - used to compete for space in crevices but eventually the larger of the two species
+the Fissurella crassa out-competed the Siphonaria lessoni moving it out into less hospitable space
+Barnacles - barnacles compete for space so they can feed better
 
+Implications
 
 References 
 
 Definition found here. Only one relevant
 https://www.merriam-webster.com/dictionary/competition
 
+
+Examples found here. Not all used but all the ones here are.
+https://education.seattlepi.com/examples-competition-between-organisms-same-species-4346.html
+
+Competitive Exclusion
