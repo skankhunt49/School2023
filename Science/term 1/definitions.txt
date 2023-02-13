@@ -51,3 +51,13 @@ Examples found here. Not all used but all the ones here are.
 https://education.seattlepi.com/examples-competition-between-organisms-same-species-4346.html
 
 Competitive Exclusion
+
+
+Definition
+a generalization in ecology: two species cannot coexist in the same ecological niche for very long
+without one becoming extinct or being driven out because of competition for limited resources
+
+References
+
+Used for definition. Only one definition.
+https://www.merriam-webster.com/dictionary/competitive%20exclusion
