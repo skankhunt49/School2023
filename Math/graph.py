@@ -9,3 +9,6 @@ fig, axes = plt.subplots(4, 2, figsize=(8,8))
 def plot(title, x, y, pos0, pos1) :
   axes[pos0, pos1].set_title(title)
   axes[pos0, pos1].plot(x, y)
+
+
+plt.show()
