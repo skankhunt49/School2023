@@ -1,12 +1,17 @@
-Material sa
+Materials
 
-A circular petri dish
-10 Mun beans
-Pieces of Cotton wool 
+Jar x2
+24 Mung Beans
 Soil 
 Water 
 
+250.149cm^3
 
-Put 50 milliliters of 
-Method place the 10 mung beans 
-in piece of cotton and add 20 milliliters of water 
+
+Put 250 milliliters of soil 
+Method place the 10 mung beans in the soil 
+add 20 milliliters of water 
+
+
+
+population density perth : population density tokyo == 1 : 23
