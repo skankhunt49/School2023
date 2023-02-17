@@ -30,3 +30,11 @@ water once every two days
 
 
 population density perth : population density tokyo == 1 : 23
+
+
+Potential Error Points
+
+Only approximate amounts of soil
+Unequal distribution of beans
+human measurement skill issues
+soil contents could vary from jar to jar
