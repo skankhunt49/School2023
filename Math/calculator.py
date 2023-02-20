@@ -7,6 +7,8 @@ import pandas as pd
 cont = "y"
 contWhole = "y"
 
+
+
 while contWhole == "y" :
   contWhole = input("Continue? y or n :")
   print ("Choose Mode graphing, normal or algebraic")
