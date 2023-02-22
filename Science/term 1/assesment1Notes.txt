@@ -1,0 +1,15 @@
+Trophic levels
+
+types of organisms, their role in terms of food
+  autotrophs, make their own food, producers
+  heterotrophs, switch(diet) :
+                  diet == consumes plants :
+                    herbivore
+                  diet == eat animals which eat plants :
+                    carnivore
+                  diet == eat plants and animals :
+                    omnivore
+                  diet == eat fruits :
+                    frugivore
+  
+photosynthesis = water + co2 == glucose + oxygen when subject to chlorophyll and sunlight[uv] 
