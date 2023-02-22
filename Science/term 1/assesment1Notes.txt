@@ -11,5 +11,6 @@ types of organisms, their role in terms of food
                     omnivore
                   diet == eat fruits :
                     frugivore
+  decomposers, extract energy from dead things
   
 photosynthesis = water + co2 == glucose + oxygen when subject to chlorophyll and sunlight[uv] 
