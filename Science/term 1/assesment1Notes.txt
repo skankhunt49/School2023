@@ -14,3 +14,14 @@ types of organisms, their role in terms of food
   decomposers, extract energy from dead things
   
 photosynthesis = water + co2 == glucose + oxygen when subject to chlorophyll and sunlight[uv] 
+
+
+food webs
+  show feeding relationships
+  always start with producer
+  producer at the bottom
+  shows what eats what
+  producer makes food
+  1st order consumer eats producer
+  2nd order eats 1st order
+  3rd order eats 2nd order
