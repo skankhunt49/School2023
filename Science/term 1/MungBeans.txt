@@ -48,12 +48,24 @@ references
 
 Data Set :
   day 0 germination
+
   day 1 
     dense :
-      7 cm highest
+      7 cm
       abt 1/4 root coverage around bottom
     
     singular :
       undetermined height
       sprouts at the top
       no root coverage
+
+  day 3
+    dense :
+      7.5 cm
+      abt 1/3 root coverage
+
+    singular
+      undetermined height
+      sprouts at the top
+      no root coverage
+      no easily observable growth
