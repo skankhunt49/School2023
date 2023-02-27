@@ -28,6 +28,7 @@ References
 
 Capital, Volume 1
 Marx Karl, N/A, Capital, Volume 1, 27/02/2023, https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf
+
 quotes "The life of modern industry becomes a series of periods of moderate activity, 
 prosperity, over-production, crisis and stagnation. The uncertainty and instability to which 
 machinery subjects the employment, and consequently the conditions of existence, of the 
@@ -35,3 +36,10 @@ operatives become normal, owing to these periodic changes of the industrial cycl
 
 "... when a forcible reduction of wages beneath the value of labour-power, is attempted for the purpose of 
 cheapening commodities."- Marx Karl, 1867, page 300, paragraph 1
+
+annotation
+Marx's work covers many issues in the industrial revolution providing a very sound source of information on the effect of work on society at the
+time. In section 7 we see Marx discuss the factory and how it affected people at the time. This information has been greatly utilized in my text.
+
+Imperialism, The Highest Stage of Capitalism
+Lenin Vladmir Ilyich, N/A, Imperialism, the Highest Stage of Capitalism, 27/02/2023, https://www.marxists.org/archive/lenin/works/1916/imp-hsc/imperialism.pdf
