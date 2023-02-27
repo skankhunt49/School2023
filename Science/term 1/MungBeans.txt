@@ -79,3 +79,12 @@ Data Set :
       undetermined height
       sprouts at the top grew
       no root coverage
+
+  day 6
+    dense :
+      20
+      1/2 root coverage
+
+    singular :
+      17 
+      negligible but existent root coverage
