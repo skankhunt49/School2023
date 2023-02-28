@@ -27,7 +27,7 @@ Focus Questions
 References 
 
 Capital, Volume 1
-Marx Karl, N/A, Capital, Volume 1, 27/02/2023, https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf
+Marx Karl, 1867, N/A, Capital, Volume 1, 27/02/2023, https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf
 
 quotes "The life of modern industry becomes a series of periods of moderate activity, 
 prosperity, over-production, crisis and stagnation. The uncertainty and instability to which 
@@ -41,5 +41,31 @@ annotation
 Marx's work covers many issues in the industrial revolution providing a very sound source of information on the effect of work on society at the
 time. In section 7 we see Marx discuss the factory and how it affected people at the time. This information has been greatly utilized in my text.
 
+Manifesto Of the Communist Party
+
+Marx Karl, Engels Frederick, 1848, Marxists Internet Archive, Manifesto Of the Communist Party, 28/02/2023, https://www.marxists.org/admin/books/manifesto/Manifesto.pdf
+
+annotation
+In this writing by Marx and Engels we get a unique insight into the class struggle during the Industrial Revolution and times prior to it. This
+unique writing gives an insight into life, history and economics of the time.
+
 Imperialism, The Highest Stage of Capitalism
-Lenin Vladmir Ilyich, N/A, Imperialism, the Highest Stage of Capitalism, 27/02/2023, https://www.marxists.org/archive/lenin/works/1916/imp-hsc/imperialism.pdf
+Lenin Vladmir Ilyich, 1916, N/A, Imperialism, the Highest Stage of Capitalism, 27/02/2023, https://www.marxists.org/archive/lenin/works/1916/imp-hsc/imperialism.pdf
+
+quotes
+"“A steadily increasing proportion of capital in industry,” writes Hilferding, “ceases to 
+belong to the industrialists who employ it. They obtain the use of it only through the 
+medium of the banks which, in relation to them, represent the owners of the capital. On 
+the other hand, the bank is forced to sink an increasing share of its funds in industry. 
+Thus, to an ever greater degree the banker is being transformed into an industrial 
+capitalist. This bank capital, i.e., capital in money form, which is thus actually 
+transformed into industrial capital, I call ‘finance capital’.” “Finance capital is capital 
+controlled by banks and employed by industrialists.”"-Vladmir Ilyich Lenin, 1916, page 33 ,paragraph 1
+
+annotation
+Lenin writes about the way banks influenced the lives of owner class in this new societal order. This gives us a unique insight into the way in 
+which that new societal order was changing from the old order of feudalism.
+
+The Family and the Feudal System in Twelfth Century England
+
+Vasiliu Dana, 2019, University of Chicago Press Journals, The Family and the Feudal System in Twelfth Century England, 28/02/2023, https://www.journals.uchicago.edu/doi/abs/10.2307/2850172?journalCode=spc
